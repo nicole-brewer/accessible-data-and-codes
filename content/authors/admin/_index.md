@@ -1,77 +1,42 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Nicole Brewer
+role: "Research Software Engineer | PhD Student in History and Philosophy of
+  Science "
+avatar_filename: profile.jpg
+bio: Nicole is currently a graduate research assistant at ASU where she studies
+  computational reproducibility and standards of practice. She was formally an
+  RSE at Purdue University which is also her alma mater. She holds a B.S. in
+  Math with Computer Science.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Reproducibility
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: mailto:nbrewer6@asu.edu
+  - display:
+      header: false
+    link: https://nicole-brewer.com/long-tales-of-science
+    icon_pack: fas
+    icon: podcast
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/catch_me_coding
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://github.com/nicole-brewer
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=cCJfIQUAAAAJ&hl
+organizations:
+  - name: Arizona State University
+    url: ""
+education:
+  courses: []
+superuser: true
+user_groups: []
+last_name: Bighetti
 highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Researchers
+first_name: Nelson
+email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Nicole Brewer is a graduate research assistant and PhD student at Arizona State University, where she studies reproducibility and other values embodied in computational standards of practice. She currently serves on the steering committee of the United States Research Software Engineering Association, and she holds a B.S. in Mathematics with Computer Science from Purdue University. Previously, she was a research software engineer at Purdue University, where she developed web applications to help domain scientists make their work accessible and reproducible.
